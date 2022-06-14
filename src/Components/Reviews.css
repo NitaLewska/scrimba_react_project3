@@ -1,0 +1,9 @@
+.reviews {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 20px;
+    overflow-x: auto;
+    padding-left: 36px;
+    background-color:#FFFFFF;
+}

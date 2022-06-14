@@ -1,0 +1,32 @@
+.about{
+    display: flex;
+    flex-direction: column;
+    padding-left: 36px;
+    background-color: #FFFFFF;
+}
+
+.about--img{
+    width: 395.91px;
+    height: 232px;
+    margin: 26px auto 0;
+}
+
+.about h1{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 110%;
+    color: #000000;
+    margin: 0;
+    margin-top: 32px;
+
+}
+
+.about p{
+    font-family: 'Poppins';
+    font-weight: 300;
+    font-size: 16px;
+    color: #222222;
+    width: 320px;
+    margin-bottom: 30px;
+}
