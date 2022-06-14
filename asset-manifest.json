@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/scrimba_react_project3/static/css/main.d6661a26.css",
+    "main.js": "/scrimba_react_project3/static/js/main.db81c686.js",
+    "static/media/airbnb_logo.svg": "/scrimba_react_project3/static/media/airbnb_logo.bcd545b3a62e5c4158c7e892f4abfb0a.svg",
+    "index.html": "/scrimba_react_project3/index.html",
+    "main.d6661a26.css.map": "/scrimba_react_project3/static/css/main.d6661a26.css.map",
+    "main.db81c686.js.map": "/scrimba_react_project3/static/js/main.db81c686.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6661a26.css",
+    "static/js/main.db81c686.js"
+  ]
+}
